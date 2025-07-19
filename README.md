@@ -53,8 +53,10 @@ df.head()
 Telco_customer_churn/
 ├── Telco_customer_churn2.ipynb
 ├── README.md
-├── models/ (optional for saving models using joblib)
-├── visuals/ (optional graphs/plots)
+├── model/
+│   └── logistic_regression_churn_model_hypertuned.pkl
+├── visuals
+├── requirements.txt
 
 ```
 📝 How to Run

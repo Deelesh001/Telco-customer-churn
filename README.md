@@ -1,4 +1,4 @@
-📉 Telco Customer Churn Analysis
+# 📉 Telco Customer Churn Analysis
 
 Understanding why customers leave is vital for telecom companies, as retaining existing clients is significantly more cost-effective than acquiring new ones. This project explores the Telco Customer Churn dataset to uncover key patterns behind churn and develop predictive models to anticipate customer loss.
 
